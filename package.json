@@ -1,0 +1,22 @@
+{
+  "name": "data-structure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JewonYeon/data-structure.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JewonYeon/data-structure/issues"
+  },
+  "homepage": "https://github.com/JewonYeon/data-structure#readme",
+  "dependencies": {
+    "mocha": "^8.4.0"
+  }
+}
